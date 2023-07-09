@@ -1,0 +1,10 @@
+char stock_name[100];
+char username[1000];
+int price;
+int quan;
+void SHOW();
+void BUY(int);
+void SELL(int);
+int check_user_name(char *);
+void set_pass(char *);
+int check_pass(char* );
